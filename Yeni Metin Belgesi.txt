@@ -1,0 +1,4 @@
+To access Admin Side, add "/admin" when browsing the source code root path eg:
+
+Username: admin
+Password: admin
